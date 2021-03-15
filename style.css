@@ -5,7 +5,7 @@
    transition: 1s;
 }
 #Logo:hover {
-   transform: rotate(22.5deg);
+   transform: scale(1.2);
    padding-top: 32px;
 }
 .glowing {
@@ -65,9 +65,14 @@
    text-align: center;
    display: none;
 }
+
 #li {
    background-color: lightblue;
    font-weight: bold;
+   transition: 1s;
+}
+#li:hover {
+    transform: rotate(-4deg);
 }
 #button {
    position: absolute;
