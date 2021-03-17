@@ -28,6 +28,10 @@
    padding-top: 400px;
    color: white;
 }
+#data {
+   font-size: large;
+   color: white;
+}
 #back1 {
    background-color: white;
    font-size: xx-large;
@@ -142,6 +146,10 @@
    top: 120px;
    font-weight: bold;
    font-size: 150%;
+}
+#Daten {
+   position: absolute;
+   bottom: 200px;
 }
 
 @keyframes glowing {
