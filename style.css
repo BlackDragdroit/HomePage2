@@ -54,12 +54,15 @@
    color: white;
    font-size: xx-large;
    right: 10px;
-   top: 400px;
+   top: 280px;
 }
 #debugger {
    position: absolute;
-   right: 0px;
-   top: 140px
+   right: -100px;
+   top: 140px;
+}
+#imgdbg {
+   width: 50%;
 }
 .texte {
    display: flex;
@@ -155,8 +158,8 @@
 }
 #checker:checked ~ #List  {
    display: block;
-
 }
+
 #divButton {
    position: absolute;
    display: block;
