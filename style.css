@@ -49,6 +49,18 @@
    margin-left: 700px;
    margin-right: 700px;
 }
+#Debugger {
+   position: absolute;
+   color: white;
+   font-size: xx-large;
+   right: 10px;
+   top: 400px;
+}
+#debugger {
+   position: absolute;
+   right: 0px;
+   top: 140px
+}
 .texte {
    display: flex;
    position: relative;
