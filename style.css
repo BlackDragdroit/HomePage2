@@ -37,11 +37,24 @@
    font-size: xx-large;
    text-align: center;
 }
+#FAT32 {
+   color: white;
+   font-size: xx-large;
+   text-align: center;
+}
+#usb {
+   position: relative;
+   justify-content: center;
+   text-align: center;
+   margin-left: 700px;
+   margin-right: 700px;
+}
 .texte {
+   display: flex;
    position: relative;
    color: white;
    font-size: xx-large;
-   top: 0px;
+   top: -270px;
    left: 0px;
 }
 .glowing {
