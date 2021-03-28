@@ -75,6 +75,28 @@
    position: relative;
    text-align: center;
 }
+
+#button213 {
+   position: relative;
+   left: 10px;
+   color: white;
+   cursor: pointer;
+   height: 1000px;
+   width: 600px;
+   background-color: transparent;
+   font-size: xx-large;
+}
+#button2113 {
+   position: absolute;
+   text-align: center;
+   right: 15px;
+   color: white;
+   cursor: pointer;
+   height: 1000px;
+   width: 600px;
+   background-color: transparent;
+   font-size: xx-large;
+}
 .games {
    color: white;
    font-size: x-large;
