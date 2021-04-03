@@ -97,6 +97,10 @@
    background-color: transparent;
    font-size: xx-large;
 }
+#tableraws {
+   text-align: center;
+   border: solid white;
+}
 .games {
    color: white;
    font-size: x-large;
