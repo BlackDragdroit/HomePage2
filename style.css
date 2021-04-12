@@ -53,8 +53,8 @@
    position: relative;
    justify-content: center;
    text-align: center;
-   margin-left: 700px;
-   margin-right: 700px;
+   margin-left: auto;
+   margin-right: auto;
 }
 #Debugger {
    position: absolute;
